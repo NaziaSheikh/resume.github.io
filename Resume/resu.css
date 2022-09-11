@@ -1,0 +1,74 @@
+body{
+    background: #FFCCB3;
+}
+.pic{
+    padding: 20px;
+    
+}
+hr{
+    background: white;
+    border-style: none;
+    height: 3px;
+}
+.naz{
+    width:10%;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+
+}
+.name{
+    display: inline-block;
+   background: #F29393;
+   margin-top: 20px;
+  
+}
+.edu1{
+    margin-left: 20px;
+    display: inline-block;
+   background: #F29393;
+  
+}
+.skills{
+    margin-left: 20px;
+    display: inline-block;
+   background: #F29393;
+}
+.exp1{
+    margin-left: 20px;
+    display: inline-block;
+   background: #F29393;
+}
+.cou{
+    margin-left: 20px;
+    display: inline-block;
+   background: #F29393;
+}
+.lic1{
+    margin-left: 20px;
+    display: inline-block;
+   background: #F29393; 
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exp{
+    position: relative;
+    left: 800px;
+    bottom: 400px;
+}
+.course{
+    position: relative;
+    left: 800px;
+    bottom: 370px;
+}
+.lic{
+
+    position: relative;
+    bottom:300px;
+}
+.vl{
+    border-left: 6px white;
+    height: 500px;
+    
+}
